@@ -8,8 +8,10 @@
 Com o intuito de criar aplicações intuitivas, para a resolução de 
 problemas cotidianos.
 
-  **Linguagem Java:** Aprendizado de POO e Back-End development
+  **Linguagem Java:** Aprendizado de POO e Back-End development.
 
-  **Linguagem HTML e CSS:** Para desenvolvimento de páginas Web
+  **Linguagem HTML e CSS:** Para desenvolvimento de páginas Web.
+
+  **Linguagem SQL:** Para a utilização de banco de dados em aplicações.
 
 ---
