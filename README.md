@@ -13,5 +13,6 @@ problemas cotidianos.
   **Linguagem HTML e CSS:** Para desenvolvimento de páginas Web.
 
   **Linguagem SQL:** Para a utilização de banco de dados em aplicações.
+  **Json**
 
 ---
