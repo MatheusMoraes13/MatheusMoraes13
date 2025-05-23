@@ -16,5 +16,5 @@ problemas cotidianos.
   **Json**
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusMoraes13)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusMoraes13&theme=dark&show_icons=true&title_color=ff1d0b&bg_color=171b22&border_color=3d444d)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMoraes13&theme=dark&layout=compact&hide_progress=true&title_color=ff1d0b&bg_color=171b22&border_color=3d444d)
