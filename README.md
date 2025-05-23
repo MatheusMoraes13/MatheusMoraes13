@@ -1,22 +1,31 @@
-### Olá, me chamo Matheus Moraes
-## Estudande de Sistemas de Informação na UFRA
----
+<h2 align="left"> Olá, me chamo Matheus Teixeira Moraes</h2>
 
-### 📖Estudos:
+###
 
-  **Linguagem C:** juntamente com a biblioteca de interface gráfica GTK
-Com o intuito de criar aplicações intuitivas, para a resolução de 
-problemas cotidianos.
+Sou fomando em Sistemas de Informação pela UFRA - Universidade Federal Rural da Amazonia
 
-  **Linguagem Java:** Aprendizado de POO e Back-End development.
+###
 
-  **Linguagem HTML e CSS:** Para desenvolvimento de páginas Web.
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=MatheusMoraes13" alt="Layout with last medium posts"  />
+</div>
 
-  **Linguagem SQL:** Para a utilização de banco de dados em aplicações.
-  **Json**
+###
 
----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusMoraes13&theme=dark&show_icons=true&title_color=ff1d0b&bg_color=171b22&border_color=3d444d)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+</div>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMoraes13&theme=dark&layout=compact&hide_progress=true&title_color=ff1d0b&bg_color=171b22&border_color=3d444d)
+###
