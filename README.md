@@ -9,6 +9,7 @@ Sou fomando em Sistemas de Informação pela UFRA - Universidade Federal Rural d
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MatheusMoraes13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusMoraes13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="320" src="https://github.com/MatheusMoraes13/MatheusMoraes13/blob/main/images/developer.png"/>
 </div>
 
 ###
