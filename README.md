@@ -13,12 +13,6 @@ Sou fomando em Sistemas de Informação pela UFRA - Universidade Federal Rural d
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=MatheusMoraes13" alt="Layout with last medium posts"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
